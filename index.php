@@ -11,6 +11,7 @@
     <br>
     <h1>NIM: 20.11.3356</h1>
     <br>
+    <h1>Kelas: 20-S1 IF-01</h1>
     <h1>Mata Kuliah: Sistem Operasi</h1>
     <br>
     <h1>UNIVERSITAS AMIKOM</h1>
